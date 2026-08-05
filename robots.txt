@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-tvdo9j.ai-photo-stock.com/sitemap.xml
